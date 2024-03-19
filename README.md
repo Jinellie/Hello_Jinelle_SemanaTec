@@ -4,6 +4,8 @@
 ## - Equipo - 
 # **Semana Tec**
 
+# Nueva branch
+
 Emojis
 💟♥️💻
 
@@ -126,5 +128,5 @@ done()
 
 # 10. Lista de equipo
 - [x] Jinelle Flores Etienne
-- [x] Nombre
-- [x] Nombre
+- [x] Melissa Salazar
+- [x] Roberta González
