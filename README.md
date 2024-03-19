@@ -116,7 +116,7 @@ done()
 [Markdown](https://grantjenks.com/docs/freegames/](https://www.markdownguide.org/cheat-sheet/)https://www.markdownguide.org/cheat-sheet/)
 
 # 8. Imágenes
-##Tampico
+## Tampico
 ![Tampico](https://github.com/Jinellie/RepoSemanaTec/assets/89491839/524a383c-cb5d-4ea7-9598-85dbb7db6ad9)
 
 # 9. Tabla
